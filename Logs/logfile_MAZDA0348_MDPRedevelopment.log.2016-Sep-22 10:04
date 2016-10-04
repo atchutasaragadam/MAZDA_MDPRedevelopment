@@ -1,0 +1,25 @@
+2016-Sep-22 10:04:05,412 INFO  [MDP_MyCustomisedLogs] Launching Browser < Firefox > 
+2016-Sep-22 10:04:07,340 INFO  [MDP_MyCustomisedLogs] New firefox driver instantiated 
+2016-Sep-22 10:04:07,351 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 10:04:07,351 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 10:04:07,351 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Sep-22 10:04:07,352 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 10:04:07,352 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 10:04:07,821 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-22 10:04:07,821 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-22 10:04:07,821 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-22 10:04:07,821 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-22 10:04:07,821 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-22 10:04:07,856 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 10:04:07,856 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 10:04:07,856 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-22 10:04:07,856 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 10:04:07,856 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 10:04:14,692 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-22 10:04:15,340 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.InvalidElementStateException: Element is not currently interactable and may not be manipulated (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 705f9c2a-01e2-e847-b7ab-4918d9ca6e6b 

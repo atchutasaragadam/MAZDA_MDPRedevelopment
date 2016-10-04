@@ -1,0 +1,34 @@
+2016-Oct-04 11:39:43,901 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-04 11:39:44,921 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Oct-04 11:39:44,933 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:44,933 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:44,933 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Oct-04 11:39:44,933 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:44,933 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:47,908 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:47,908 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:47,908 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_001          $$$$$$$$$$$$$ 
+2016-Oct-04 11:39:47,908 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:47,909 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:49,634 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 11:39:49,634 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:39:49,634 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:39:49,634 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:39:49,634 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:39:49,675 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:49,675 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:49,675 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_002          $$$$$$$$$$$$$ 
+2016-Oct-04 11:39:49,675 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:39:49,675 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:40:45,915 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-04 11:40:47,034 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Oct-04 11:40:47,047 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:40:47,047 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:40:47,047 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Oct-04 11:40:47,047 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:40:47,047 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:40:50,174 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:40:50,174 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:40:50,174 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_001          $$$$$$$$$$$$$ 
+2016-Oct-04 11:40:50,174 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:40:50,174 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

@@ -1,0 +1,87 @@
+2016-Oct-04 14:11:00,203 INFO  [MDP_MyCustomisedLogs] Clicked on Post Code icon on the footer 
+2016-Oct-04 14:11:00,270 INFO  [MDP_MyCustomisedLogs] entered post code : abcd 
+2016-Oct-04 14:11:01,815 INFO  [MDP_MyCustomisedLogs] Clicked on Submit button post code pop up > 
+2016-Oct-04 14:11:01,851 INFO  [MDP_MyCustomisedLogs] Location is not set to correct post code : abcd 
+2016-Oct-04 14:11:01,851 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 14:11:01,851 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:01,851 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:01,851 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:01,851 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:01,882 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:01,882 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:01,882 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_005          $$$$$$$$$$$$$ 
+2016-Oct-04 14:11:01,882 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:01,882 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:01,900 INFO  [MDP_MyCustomisedLogs] Not executing the post code as the value from excel is : @#$@#% 
+2016-Oct-04 14:11:01,900 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 14:11:01,900 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:01,900 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:01,900 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:01,900 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:01,931 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:01,931 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:01,931 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_006          $$$$$$$$$$$$$ 
+2016-Oct-04 14:11:01,931 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:01,931 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:03,003 INFO  [MDP_MyCustomisedLogs] Clicked on Post Code icon on the footer 
+2016-Oct-04 14:11:03,070 INFO  [MDP_MyCustomisedLogs] entered post code : as23 
+2016-Oct-04 14:11:04,612 INFO  [MDP_MyCustomisedLogs] Clicked on Submit button post code pop up > 
+2016-Oct-04 14:11:04,650 INFO  [MDP_MyCustomisedLogs] Location is not set to correct post code : as23 
+2016-Oct-04 14:11:04,650 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 14:11:04,650 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:04,650 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:04,650 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:04,650 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:04,674 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:04,674 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:04,674 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_007          $$$$$$$$$$$$$ 
+2016-Oct-04 14:11:04,674 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:04,674 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:05,956 INFO  [MDP_MyCustomisedLogs] Clicked on Post Code icon on the footer 
+2016-Oct-04 14:11:06,020 INFO  [MDP_MyCustomisedLogs] entered post code : 23sd 
+2016-Oct-04 14:11:07,560 INFO  [MDP_MyCustomisedLogs] Clicked on Submit button post code pop up > 
+2016-Oct-04 14:11:07,594 INFO  [MDP_MyCustomisedLogs] Location is not set to correct post code : 23sd 
+2016-Oct-04 14:11:07,595 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 14:11:07,595 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:07,595 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:07,595 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:07,595 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:07,620 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:07,620 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:07,620 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_008          $$$$$$$$$$$$$ 
+2016-Oct-04 14:11:07,620 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:07,620 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:08,500 INFO  [MDP_MyCustomisedLogs] Clicked on Post Code icon on the footer 
+2016-Oct-04 14:11:08,564 INFO  [MDP_MyCustomisedLogs] entered post code : 3008 
+2016-Oct-04 14:11:10,110 INFO  [MDP_MyCustomisedLogs] Clicked on Submit button post code pop up > 
+2016-Oct-04 14:11:10,142 INFO  [MDP_MyCustomisedLogs] Location is not set to correct post code : 3008 
+2016-Oct-04 14:11:10,142 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 14:11:10,142 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:10,143 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:10,143 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:10,143 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:10,163 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:10,163 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:10,163 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_009          $$$$$$$$$$$$$ 
+2016-Oct-04 14:11:10,163 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:10,163 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:10,175 INFO  [MDP_MyCustomisedLogs] Not executing the post code as the value from excel is :  
+2016-Oct-04 14:11:10,175 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 14:11:10,175 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:10,175 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:10,175 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:10,175 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:10,199 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:10,199 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:10,199 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_010          $$$$$$$$$$$$$ 
+2016-Oct-04 14:11:10,199 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:10,199 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 14:11:11,046 INFO  [MDP_MyCustomisedLogs] Clicked on Post Code icon on the footer 
+2016-Oct-04 14:11:11,106 INFO  [MDP_MyCustomisedLogs] entered post code : 4000 
+2016-Oct-04 14:11:12,660 INFO  [MDP_MyCustomisedLogs] Clicked on Submit button post code pop up > 
+2016-Oct-04 14:11:12,697 INFO  [MDP_MyCustomisedLogs] Location is not set to correct post code : 4000 
+2016-Oct-04 14:11:12,697 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 14:11:12,697 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:12,697 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:12,697 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 14:11:12,697 INFO  [MDP_MyCustomisedLogs] X 

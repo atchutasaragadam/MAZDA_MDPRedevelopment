@@ -1,0 +1,55 @@
+2016-Sep-16 22:41:38,320 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Sep-16 22:41:39,295 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Sep-16 22:41:39,304 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:41:39,304 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:41:39,304 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-16 22:41:39,304 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:41:39,304 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:41:39,756 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-16 22:41:39,756 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:41:39,756 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:41:39,757 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:41:39,757 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:41:39,788 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:41:39,788 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:41:39,788 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-16 22:41:39,788 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:41:39,788 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:41:43,370 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:41:43,664 INFO  [MDP_MyCustomisedLogs] Getting  Total child links for  null 
+2016-Sep-16 22:41:43,684 INFO  [MDP_MyCustomisedLogs] Total number of links is/are : < 10 > 
+2016-Sep-16 22:41:43,724 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:41:43,725 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/ 
+2016-Sep-16 22:41:43,776 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:41:43,776 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:41:43,776 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:41:43,776 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/  >> 
+2016-Sep-16 22:41:46,811 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/ >  
+2016-Sep-16 22:41:48,034 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:41:48,034 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   FIND A DEALER 
+2016-Sep-16 22:41:48,034 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:41:48,086 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:41:48,086 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:41:48,086 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:41:48,086 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:41:50,170 INFO  [MDP_MyCustomisedLogs] Clicked on :  < FIND A DEALER  > and the URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:41:51,275 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:41:51,276 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:41:51,322 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:41:51,323 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:41:51,323 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:41:51,323 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:41:54,353 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:41:55,349 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:41:55,350 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:41:55,402 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:41:55,402 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:41:55,402 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:41:55,403 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:41:58,432 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:41:59,319 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:41:59,319 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:41:59,368 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:41:59,368 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:41:59,368 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:41:59,368 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 

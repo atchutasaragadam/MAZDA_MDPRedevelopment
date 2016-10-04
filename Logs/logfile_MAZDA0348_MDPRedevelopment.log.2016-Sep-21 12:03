@@ -1,0 +1,27 @@
+2016-Sep-21 12:03:18,519 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Sep-21 12:03:19,646 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Sep-21 12:03:19,658 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 12:03:19,658 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 12:03:19,658 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyMenu          $$$$$$$$$$$$$ 
+2016-Sep-21 12:03:19,658 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 12:03:19,658 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 12:03:20,197 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-21 12:03:20,197 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 12:03:20,197 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 12:03:20,197 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 12:03:20,197 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 12:03:20,230 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 12:03:20,230 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 12:03:20,230 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-21 12:03:20,230 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 12:03:20,230 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 12:03:42,746 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-21 12:03:43,303 INFO  [MDP_MyCustomisedLogs] Element < OUR RANGE > is displayed 
+2016-Sep-21 12:03:43,364 INFO  [MDP_MyCustomisedLogs] Element < BUYING GUIDE > is displayed 
+2016-Sep-21 12:03:43,469 INFO  [MDP_MyCustomisedLogs] Clicked on  < OUR RANGE 
+2016-Sep-21 12:03:43,603 INFO  [MDP_MyCustomisedLogs] Clicked on  < BUYING GUIDE 
+2016-Sep-21 12:03:43,618 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyMenu             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-21 12:03:43,618 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 12:03:43,618 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 12:03:43,618 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 12:03:43,618 INFO  [MDP_MyCustomisedLogs] X 

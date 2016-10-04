@@ -1,0 +1,16 @@
+2016-Sep-21 11:21:07,036 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-21 11:21:07,576 INFO  [MDP_MyCustomisedLogs] Element < OUR RANGE > is displayed 
+2016-Sep-21 11:21:22,933 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[FirefoxDriver: Firefox on MAC (9f737f14-c3d0-4443-b44d-275c51ee614f)] -> css selector: span] (tried for 15 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, appBuildId=20160823121617, handlesAlerts=true, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, javascriptEnabled=true, takesElementScreenshot=true, platformName=Darwin, device=desktop, cssSelectorsEnabled=true, unexpectedAlertBehaviour=true}]
+Session ID: 9f737f14-c3d0-4443-b44d-275c51ee614f 
+2016-Sep-21 11:21:58,352 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Sep-21 11:21:58,873 ERROR [MDP_MyCustomisedLogs] Error in Class : SuperClass || Method : browserExecute || Description : < unknown error: cannot parse capability: chromeOptions
+from unknown error: must be a dictionary
+  (Driver info: chromedriver=2.22.397929 (fb72fb249a903a0b1041ea71eb4c8b3fa0d9be5a),platform=Mac OS X 10.11.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 209 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver >  

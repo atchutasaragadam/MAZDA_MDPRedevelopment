@@ -1,0 +1,16 @@
+2016-Sep-16 21:55:50,184 INFO  [MDP_MyCustomisedLogs] New Android- Samsung Galaxy S5  driver instantiated via browser stack 
+2016-Sep-16 21:55:50,186 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:55:50,186 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:55:50,186 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-16 21:55:50,186 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:55:50,186 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:55:50,216 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-16 21:55:50,216 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:55:50,216 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:55:50,216 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:55:50,216 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:55:50,233 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:55:50,233 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:55:50,233 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-16 21:55:50,233 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:55:50,233 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

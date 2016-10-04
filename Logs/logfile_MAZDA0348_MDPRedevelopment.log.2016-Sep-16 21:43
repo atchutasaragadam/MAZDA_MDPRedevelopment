@@ -1,0 +1,85 @@
+2016-Sep-16 21:41:03,543 INFO  [MDP_MyCustomisedLogs] Clicked on :  < Vehicles  > and the URL is < https://www.mazdausa.com/# >  
+2016-Sep-16 21:41:06,159 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:41:06,159 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   Shopping Tools 
+2016-Sep-16 21:41:06,159 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/# 
+2016-Sep-16 21:41:06,198 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:41:06,198 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:41:06,199 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:41:06,199 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/#  >> 
+2016-Sep-16 21:41:09,789 INFO  [MDP_MyCustomisedLogs] Clicked on :  < Shopping Tools  > and the URL is < https://www.mazdausa.com/# >  
+2016-Sep-16 21:41:13,680 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:41:13,680 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   Why Mazda 
+2016-Sep-16 21:41:13,680 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/# 
+2016-Sep-16 21:41:13,720 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:41:13,721 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:41:13,721 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:41:13,721 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/#  >> 
+2016-Sep-16 21:41:17,161 INFO  [MDP_MyCustomisedLogs] Clicked on :  < Why Mazda  > and the URL is < https://www.mazdausa.com/# >  
+2016-Sep-16 21:41:20,950 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:41:20,951 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   Owners 
+2016-Sep-16 21:41:20,951 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/# 
+2016-Sep-16 21:41:21,226 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:41:21,226 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:41:21,226 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:41:21,226 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/#  >> 
+2016-Sep-16 21:41:24,842 INFO  [MDP_MyCustomisedLogs] Clicked on :  < Owners  > and the URL is < https://www.mazdausa.com/# >  
+2016-Sep-16 21:41:28,630 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:41:28,630 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   Find a Dealer 
+2016-Sep-16 21:41:28,631 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/find-a-dealer 
+2016-Sep-16 21:41:29,825 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:41:29,825 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:41:29,825 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:41:29,825 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/find-a-dealer  >> 
+2016-Sep-16 21:41:35,082 INFO  [MDP_MyCustomisedLogs] Clicked on :  < Find a Dealer  > and the URL is < https://www.mazdausa.com/find-a-dealer >  
+2016-Sep-16 21:41:37,437 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:41:37,437 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   89101 
+2016-Sep-16 21:41:37,437 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/find-a-dealer# 
+2016-Sep-16 21:41:37,478 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:41:37,478 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:41:37,479 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:41:37,479 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/find-a-dealer#  >> 
+2016-Sep-16 21:41:41,123 INFO  [MDP_MyCustomisedLogs] Clicked on :  < 89101  > and the URL is < https://www.mazdausa.com/find-a-dealer# >  
+2016-Sep-16 21:41:42,967 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:41:42,967 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   Mazda3 4-Door 
+2016-Sep-16 21:41:42,967 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/vehicles/mazda3-sedan 
+2016-Sep-16 21:41:43,477 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:41:43,478 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:41:43,478 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:41:43,478 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/vehicles/mazda3-sedan  >> 
+2016-Sep-16 21:41:47,484 INFO  [MDP_MyCustomisedLogs] Class: FindAllLinks_PF || Method: getLinksResponse || Description : < Element not displayed (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.51.0', revision: '1af067d', time: '2016-02-05 19:15:17'
+System info: host: '207-254-57-60', ip: '207.254.57.60', os.name: 'windows', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_91'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities [{acceptSslCerts=true, browserVersion=25.10586.0.0, platformVersion=10, browserName=MicrosoftEdge, takesScreenshot=true, pageLoadStrategy=normal, takesElementScreenshot=true, platformName=windows, platform=ANY}]
+Session ID: 7F5FF677-44BF-455E-867B-63DA99B022A9
+Command duration or timeout: 1.66 seconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{acceptSslCerts=true, webdriver.remote.sessionid=84760cb492dfd3148c09a54373ad6df4c3daa429, browserVersion=25.10586.0.0, platformVersion=10, browserName=MicrosoftEdge, takesScreenshot=true, pageLoadStrategy=normal, takesElementScreenshot=true, javascriptEnabled=true, platformName=windows, cssSelectorsEnabled=true, platform=ANY}]
+Session ID: 84760cb492dfd3148c09a54373ad6df4c3daa429 >  
+2016-Sep-16 21:41:47,510 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 21:41:47,510 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:41:47,510 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:41:47,511 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:41:47,511 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:41:47,511 ERROR [MDP_MyCustomisedLogs]  In Class : FindAllLinks_PF || Method : verifyLinks_Execute || description of the error : Skipping the test case <  > as the Run Mode for this test case is <  > 
+2016-Sep-16 21:41:47,511 ERROR [MDP_MyCustomisedLogs] Class : AustralianSuperCampaigns_TC  || Method:  verifyLinksCampaigns || description : org.testng.TestException: 
+ In Class : FindAllLinks_PF || Method : verifyLinks_Execute || description of the error : Skipping the test case <  > as the Run Mode for this test case is <  > 
+2016-Sep-16 21:42:04,944 INFO  [MDP_MyCustomisedLogs] Launching Browser < browser-stack-Android-Samsung-S5 Mini > 
+2016-Sep-16 21:42:57,205 INFO  [MDP_MyCustomisedLogs] New Android- Samsung Galaxy S5  driver instantiated via browser stack 
+2016-Sep-16 21:42:57,206 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:42:57,206 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:42:57,206 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-16 21:42:57,206 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:42:57,206 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:42:57,244 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-16 21:42:57,244 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:42:57,244 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:42:57,244 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:42:57,244 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:42:57,244 ERROR [MDP_MyCustomisedLogs]  In Class : FindAllLinks_PF || Method : verifyLinks_Execute || description of the error : Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > 
+2016-Sep-16 21:42:57,244 ERROR [MDP_MyCustomisedLogs] Class : AustralianSuperCampaigns_TC  || Method:  verifyLinksCampaigns || description : org.testng.TestException: 
+ In Class : FindAllLinks_PF || Method : verifyLinks_Execute || description of the error : Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > 
+2016-Sep-16 21:43:25,438 INFO  [MDP_MyCustomisedLogs] Launching Browser < selenium-grid-win10-MSEdge > 

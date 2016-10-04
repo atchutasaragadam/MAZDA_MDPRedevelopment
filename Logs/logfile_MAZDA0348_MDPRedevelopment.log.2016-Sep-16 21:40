@@ -1,0 +1,70 @@
+2016-Sep-16 21:40:05,203 INFO  [MDP_MyCustomisedLogs] Launching Browser < Safari > 
+2016-Sep-16 21:40:07,940 INFO  [MDP_MyCustomisedLogs] New Safari driver instantiated 
+2016-Sep-16 21:40:07,947 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:07,947 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:07,947 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-16 21:40:07,947 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:07,947 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:08,448 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:08,448 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:08,449 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage          $$$$$$$$$$$$$ 
+2016-Sep-16 21:40:08,449 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:08,449 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:16,339 INFO  [MDP_MyCustomisedLogs] navigated to https://www.mazdausa.com/ 
+2016-Sep-16 21:40:16,359 INFO  [MDP_MyCustomisedLogs] Getting  Total child links for  TC_HomePage 
+2016-Sep-16 21:40:16,456 INFO  [MDP_MyCustomisedLogs] Total number of links is/are : < 110 > 
+2016-Sep-16 21:40:16,519 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:40:16,520 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/ 
+2016-Sep-16 21:40:17,293 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:40:17,294 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:40:17,294 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:40:17,294 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/  >> 
+2016-Sep-16 21:40:21,051 INFO  [MDP_MyCustomisedLogs] Class: FindAllLinks_PF || Method: getLinksResponse || Description : < Unknown command: {"F":"executeScript","ia":{"script":"window.scrollTo(0,19)","args":[]},"id":"njzcs454slc"} (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 26 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities [{browserName=safari, takesScreenshot=true, javascriptEnabled=true, version=9.1.1, cssSelectorsEnabled=true, platform=MAC, secureSsl=true}]
+Session ID: null >  
+2016-Sep-16 21:40:21,089 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 21:40:21,090 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:40:21,090 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:40:21,090 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:40:21,090 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:40:21,090 ERROR [MDP_MyCustomisedLogs]  In Class : FindAllLinks_PF || Method : verifyLinks_Execute || description of the error : Skipping the test case <  > as the Run Mode for this test case is <  > 
+2016-Sep-16 21:40:21,090 ERROR [MDP_MyCustomisedLogs] Class : AustralianSuperCampaigns_TC  || Method:  verifyLinksCampaigns || description : org.testng.TestException: 
+ In Class : FindAllLinks_PF || Method : verifyLinks_Execute || description of the error : Skipping the test case <  > as the Run Mode for this test case is <  > 
+2016-Sep-16 21:40:31,495 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Sep-16 21:40:31,503 ERROR [MDP_MyCustomisedLogs] Error in Class : SuperClass || Method : browserExecute || Description : < The driver executable does not exist: /Volumes/Users/cheaus/Documents/Automation/AutomationProjects/MAZDA/MAZDA_MDP/MDPRedevelopment/Browsers/ChromeDriver/chromedriver >  
+2016-Sep-16 21:40:31,531 INFO  [MDP_MyCustomisedLogs] Launching Browser < Firefox > 
+2016-Sep-16 21:40:31,541 ERROR [MDP_MyCustomisedLogs] Error in Class : SuperClass || Method : browserExecute || Description : < The driver executable does not exist: /Volumes/Users/cheaus/Documents/Automation/AutomationProjects/MAZDA/MAZDA_MDP/MDPRedevelopment/Browsers/FirefoxDriver/geckodriver >  
+2016-Sep-16 21:40:31,561 INFO  [MDP_MyCustomisedLogs] Launching Browser < browser-stack-Win-Edge-13 > 
+2016-Sep-16 21:40:38,979 INFO  [MDP_MyCustomisedLogs] New Windows Edge 13  driver instantiated via browser stack 
+2016-Sep-16 21:40:38,980 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:38,980 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:38,980 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-16 21:40:38,980 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:38,980 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:39,030 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:39,030 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:39,030 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage          $$$$$$$$$$$$$ 
+2016-Sep-16 21:40:39,030 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:39,030 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:40:45,623 INFO  [MDP_MyCustomisedLogs] navigated to https://www.mazdausa.com/ 
+2016-Sep-16 21:40:46,344 INFO  [MDP_MyCustomisedLogs] Getting  Total child links for  TC_HomePage 
+2016-Sep-16 21:40:46,960 INFO  [MDP_MyCustomisedLogs] Total number of links is/are : < 110 > 
+2016-Sep-16 21:40:49,708 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:40:49,708 INFO  [MDP_MyCustomisedLogs]     Now testing for link text     
+2016-Sep-16 21:40:49,708 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/ 
+2016-Sep-16 21:40:49,865 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:40:49,865 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:40:49,865 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:40:49,865 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/  >> 
+2016-Sep-16 21:40:56,349 INFO  [MDP_MyCustomisedLogs] Clicked on :  <    > and the URL is < https://www.mazdausa.com/ >  
+2016-Sep-16 21:40:59,479 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 21:40:59,479 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   Vehicles 
+2016-Sep-16 21:40:59,479 INFO  [MDP_MyCustomisedLogs]      Now testing for url    https://www.mazdausa.com/# 
+2016-Sep-16 21:40:59,515 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 21:40:59,515 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 21:40:59,516 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 21:40:59,516 INFO  [MDP_MyCustomisedLogs] Valid link: <<  https://www.mazdausa.com/#  >> 

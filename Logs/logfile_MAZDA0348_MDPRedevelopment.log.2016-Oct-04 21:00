@@ -1,0 +1,7 @@
+2016-Oct-04 21:00:57,213 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-04 21:00:58,587 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Oct-04 21:00:58,601 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 21:00:58,601 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 21:00:58,601 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyPostCodePopUp          $$$$$$$$$$$$$ 
+2016-Oct-04 21:00:58,602 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 21:00:58,602 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

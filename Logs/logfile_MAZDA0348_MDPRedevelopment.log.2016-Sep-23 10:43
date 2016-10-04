@@ -1,0 +1,15 @@
+2016-Sep-23 10:43:05,523 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-23 10:43:05,524 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 10:43:05,525 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 10:43:05,525 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 10:43:05,525 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 10:43:16,914 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_AU is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_AU > as the Run Mode for this test case is < n > > 
+2016-Sep-23 10:43:16,915 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 10:43:16,915 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 10:43:16,915 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 10:43:16,916 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 10:43:32,623 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 10:43:32,623 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 10:43:32,624 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_Local          $$$$$$$$$$$$$ 
+2016-Sep-23 10:43:32,624 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 10:43:32,624 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

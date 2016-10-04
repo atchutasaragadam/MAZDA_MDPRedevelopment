@@ -1,0 +1,22 @@
+2016-Sep-27 08:49:16,524 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Sep-27 08:49:18,009 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Sep-27 08:49:18,024 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-27 08:49:18,024 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-27 08:49:18,024 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Sep-27 08:49:18,024 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-27 08:49:18,024 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-27 08:49:18,838 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-27 08:49:18,838 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-27 08:49:18,838 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-27 08:49:18,838 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-27 08:49:18,838 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-27 08:49:18,892 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_AU is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_AU > as the Run Mode for this test case is < n > > 
+2016-Sep-27 08:49:18,892 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-27 08:49:18,892 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-27 08:49:18,892 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-27 08:49:18,892 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-27 08:49:18,944 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-27 08:49:18,944 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-27 08:49:18,944 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_Local          $$$$$$$$$$$$$ 
+2016-Sep-27 08:49:18,944 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-27 08:49:18,944 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

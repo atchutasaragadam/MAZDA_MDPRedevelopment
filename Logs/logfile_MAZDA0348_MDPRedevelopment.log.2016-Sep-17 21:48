@@ -1,0 +1,12 @@
+2016-Sep-17 21:48:03,942 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-17 21:48:03,943 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:48:03,943 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:48:03,943 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:48:03,943 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:48:04,690 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:48:04,690 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:48:04,690 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-17 21:48:04,691 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:48:04,691 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:48:05,050 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-17 21:48:48,985 INFO  [MDP_MyCustomisedLogs] Getting  Total child links for  TC_HomePage_AU 

@@ -1,0 +1,24 @@
+2016-Oct-03 12:12:00,595 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-03 12:12:01,723 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Oct-03 12:12:01,734 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:12:01,734 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:12:01,734 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Oct-03 12:12:01,734 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:12:01,734 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:12:01,735 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-03 12:12:01,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:12:01,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:12:01,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:12:01,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:12:39,418 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-03 12:12:40,520 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Oct-03 12:12:40,532 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:12:40,532 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:12:40,532 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Oct-03 12:12:40,532 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:12:40,532 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:12:40,533 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-03 12:12:40,533 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:12:40,533 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:12:40,533 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:12:40,533 INFO  [MDP_MyCustomisedLogs] X 

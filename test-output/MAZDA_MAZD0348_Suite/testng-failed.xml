@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MAZDA_MAZD0348_Suite]">
+  <parameter name="browser" value="Chrome"/>
+  <listeners>
+    <listener class-name="utility.Listener"/>
+  </listeners>
+  <test name="ChromeTest(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="testCases.MDP_PostCodePopUp_TC">
+        <methods>
+          <include name="verifyPostCodePopUp"/>
+        </methods>
+      </class> <!-- testCases.MDP_PostCodePopUp_TC -->
+      <class name="testCases.MDP_FindAllLinks_TC">
+        <methods>
+          <include name="browserExecute"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- testCases.MDP_FindAllLinks_TC -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [MAZDA_MAZD0348_Suite] -->

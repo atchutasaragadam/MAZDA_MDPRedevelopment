@@ -1,0 +1,23 @@
+2016-Sep-21 14:42:07,864 INFO  [MDP_MyCustomisedLogs] Launching Browser < Firefox > 
+2016-Sep-21 14:42:10,051 INFO  [MDP_MyCustomisedLogs] New firefox driver instantiated 
+2016-Sep-21 14:42:10,065 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:42:10,066 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:42:10,066 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Sep-21 14:42:10,066 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:42:10,066 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:42:10,576 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-21 14:42:10,576 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 14:42:10,576 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 14:42:10,576 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 14:42:10,576 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 14:42:10,610 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:42:10,610 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:42:10,610 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-21 14:42:10,610 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:42:10,610 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:42:34,141 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-21 14:42:34,986 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-21 14:42:34,986 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 14:42:34,986 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 14:42:34,986 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 14:42:34,986 INFO  [MDP_MyCustomisedLogs] X 

@@ -1,0 +1,2 @@
+2016-Sep-23 09:16:33,490 INFO  [MDP_MyCustomisedLogs] Launching Browser < Firefox > 
+2016-Sep-23 09:16:33,928 ERROR [MDP_MyCustomisedLogs] Error in Class : SuperClass || Method : browserExecute || Description : < java.lang.String cannot be cast to java.util.Map >  

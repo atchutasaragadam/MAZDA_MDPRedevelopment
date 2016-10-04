@@ -1,0 +1,10 @@
+2016-Sep-21 08:59:23,425 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-21 08:59:38,967 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.NoSuchElementException: Unable to locate element: span[data-test='Our Range'] (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, javascriptEnabled=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: f0d60188-e60b-9e4b-bb51-d1605c2a3bfd
+*** Element info: {Using=css selector, value=span[data-test='Our Range']} 

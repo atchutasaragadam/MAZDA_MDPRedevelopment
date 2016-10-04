@@ -1,0 +1,12 @@
+2016-Oct-03 12:00:01,819 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-03 12:00:03,769 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Oct-03 12:00:03,798 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:00:03,798 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:00:03,798 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Oct-03 12:00:03,798 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:00:03,798 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-03 12:00:03,799 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-03 12:00:03,799 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:00:03,800 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:00:03,800 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-03 12:00:03,800 INFO  [MDP_MyCustomisedLogs] X 

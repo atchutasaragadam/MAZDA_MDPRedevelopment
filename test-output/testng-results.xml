@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[ About to begin executing suite MAZDA_MAZD0348_Suite]]>
+    </line>
+    <line>
+      <![CDATA[ About to begin executing Test ChromeTest]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : MDP_SuperClass.browserExecute]]>
+    </line>
+    <line>
+      <![CDATA[Launching Browser < Chrome >]]>
+    </line>
+    <line>
+      <![CDATA[New Chrome driver instantiated]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : MDP_SuperClass.browserExecute]]>
+    </line>
+    <line>
+      <![CDATA[The execution of the main test starts now]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : MDP_PostCodePopUp_TC.verifyPostCodePopUp]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        verifyPostCodePopUp          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[navigated to http://localhost:3200/]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_001          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Post Code icon on the footer]]>
+    </line>
+    <line>
+      <![CDATA[entered post code : 2000]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit button post code pop up >]]>
+    </line>
+    <line>
+      <![CDATA[Location is not set to correct post code : 2000]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_002          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Post Code icon on the footer]]>
+    </line>
+    <line>
+      <![CDATA[entered post code : 3008]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit button post code pop up >]]>
+    </line>
+    <line>
+      <![CDATA[Location is not set to correct post code : 3008]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_003          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Not executing the post code as the value from excel is : 50000]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_004          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Post Code icon on the footer]]>
+    </line>
+    <line>
+      <![CDATA[entered post code : abcd]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit button post code pop up >]]>
+    </line>
+    <line>
+      <![CDATA[Location is not set to correct post code : abcd]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_005          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Not executing the post code as the value from excel is : @#$@#%]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_006          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Post Code icon on the footer]]>
+    </line>
+    <line>
+      <![CDATA[entered post code : as23]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit button post code pop up >]]>
+    </line>
+    <line>
+      <![CDATA[Location is not set to correct post code : as23]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_007          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Post Code icon on the footer]]>
+    </line>
+    <line>
+      <![CDATA[entered post code : 23sd]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit button post code pop up >]]>
+    </line>
+    <line>
+      <![CDATA[Location is not set to correct post code : 23sd]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_008          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Post Code icon on the footer]]>
+    </line>
+    <line>
+      <![CDATA[entered post code : 3008]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit button post code pop up >]]>
+    </line>
+    <line>
+      <![CDATA[Location is not set to correct post code : 3008]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_009          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Not executing the post code as the value from excel is : ]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_010          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Post Code icon on the footer]]>
+    </line>
+    <line>
+      <![CDATA[entered post code : 4000]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit button post code pop up >]]>
+    </line>
+    <line>
+      <![CDATA[Location is not set to correct post code : 4000]]>
+    </line>
+    <line>
+      <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[X]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : MDP_PostCodePopUp_TC.verifyPostCodePopUp]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in testCases.MDP_PostCodePopUp_TC]]>
+    </line>
+    <line>
+      <![CDATA[Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verifyPostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception,]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: PASSED]]>
+    </line>
+    <line>
+      <![CDATA[The execution of the main test starts now]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        verify_ClosePostCodePopUp          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[navigated to http://localhost:3200/]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Post Code icon on the footer]]>
+    </line>
+    <line>
+      <![CDATA[entered post code : 3000]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Cancel button post code pop up >]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in testCases.MDP_PostCodePopUp_TC]]>
+    </line>
+    <line>
+      <![CDATA[Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception,]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: PASSED]]>
+    </line>
+    <line>
+      <![CDATA[The execution of the main test starts now]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : MDP_PostCodePopUp_TC.verify_PostCodePopupPresence]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        verify_PostCodePopupPresence          $$$$$$$$$$$$$]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[**********************************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[navigated to http://localhost:3200/]]>
+    </line>
+    <line>
+      <![CDATA[Elements are : <    >]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : MDP_PostCodePopUp_TC.verify_PostCodePopupPresence]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in testCases.MDP_PostCodePopUp_TC]]>
+    </line>
+    <line>
+      <![CDATA[Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verify_PostCodePopupPresence(java.lang.reflect.Method) throws java.lang.Exception,]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: PASSED]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : MDP_SuperClass.afterTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : MDP_SuperClass.afterTest]]>
+    </line>
+  </reporter-output>
+  <suite name="MAZDA_MAZD0348_Suite" duration-ms="51057" started-at="2016-10-04T10:43:00Z" finished-at="2016-10-04T10:43:51Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="51057" started-at="2016-10-04T10:43:00Z" finished-at="2016-10-04T10:43:51Z">
+      <class name="testCases.MDP_FindAllLinks_TC">
+        <test-method status="PASS" signature="browserExecute(java.lang.String)[pri:0, instance:testCases.MDP_FindAllLinks_TC@76707e36]" name="browserExecute" is-config="true" duration-ms="2776" started-at="2016-10-04T21:43:00Z" finished-at="2016-10-04T21:43:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser < Chrome >]]>
+            </line>
+            <line>
+              <![CDATA[New Chrome driver instantiated]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : MDP_SuperClass.browserExecute]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserExecute -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testCases.MDP_FindAllLinks_TC@76707e36]" name="afterTest" is-config="true" duration-ms="10576" started-at="2016-10-04T21:43:40Z" finished-at="2016-10-04T21:43:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : MDP_SuperClass.afterTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCases.MDP_FindAllLinks_TC -->
+      <class name="testCases.MDP_PostCodePopUp_TC">
+        <test-method status="PASS" signature="verifyPostCodePopUp(java.lang.reflect.Method)[pri:0, instance:testCases.MDP_PostCodePopUp_TC@614ddd49]" name="verifyPostCodePopUp" duration-ms="32922" started-at="2016-10-04T21:43:03Z" description="Post Code Pop Up" finished-at="2016-10-04T21:43:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.MDP_PostCodePopUp_TC.verifyPostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The execution of the main test starts now]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : MDP_PostCodePopUp_TC.verifyPostCodePopUp]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        verifyPostCodePopUp          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[navigated to http://localhost:3200/]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_001          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Post Code icon on the footer]]>
+            </line>
+            <line>
+              <![CDATA[entered post code : 2000]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit button post code pop up >]]>
+            </line>
+            <line>
+              <![CDATA[Location is not set to correct post code : 2000]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_002          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Post Code icon on the footer]]>
+            </line>
+            <line>
+              <![CDATA[entered post code : 3008]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit button post code pop up >]]>
+            </line>
+            <line>
+              <![CDATA[Location is not set to correct post code : 3008]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_003          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Not executing the post code as the value from excel is : 50000]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_004          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Post Code icon on the footer]]>
+            </line>
+            <line>
+              <![CDATA[entered post code : abcd]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit button post code pop up >]]>
+            </line>
+            <line>
+              <![CDATA[Location is not set to correct post code : abcd]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_005          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Not executing the post code as the value from excel is : @#$@#%]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_006          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Post Code icon on the footer]]>
+            </line>
+            <line>
+              <![CDATA[entered post code : as23]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit button post code pop up >]]>
+            </line>
+            <line>
+              <![CDATA[Location is not set to correct post code : as23]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_007          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Post Code icon on the footer]]>
+            </line>
+            <line>
+              <![CDATA[entered post code : 23sd]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit button post code pop up >]]>
+            </line>
+            <line>
+              <![CDATA[Location is not set to correct post code : 23sd]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_008          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Post Code icon on the footer]]>
+            </line>
+            <line>
+              <![CDATA[entered post code : 3008]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit button post code pop up >]]>
+            </line>
+            <line>
+              <![CDATA[Location is not set to correct post code : 3008]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_009          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Not executing the post code as the value from excel is : ]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        TC_PC_010          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Post Code icon on the footer]]>
+            </line>
+            <line>
+              <![CDATA[entered post code : 4000]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit button post code pop up >]]>
+            </line>
+            <line>
+              <![CDATA[Location is not set to correct post code : 4000]]>
+            </line>
+            <line>
+              <![CDATA[XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[X]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : MDP_PostCodePopUp_TC.verifyPostCodePopUp]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in testCases.MDP_PostCodePopUp_TC]]>
+            </line>
+            <line>
+              <![CDATA[Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verifyPostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception,]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPostCodePopUp -->
+        <test-method status="PASS" signature="verify_ClosePostCodePopUp(java.lang.reflect.Method)[pri:0, instance:testCases.MDP_PostCodePopUp_TC@614ddd49]" name="verify_ClosePostCodePopUp" duration-ms="2407" started-at="2016-10-04T21:43:36Z" description="verifying close on post code pop up" finished-at="2016-10-04T21:43:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The execution of the main test starts now]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        verify_ClosePostCodePopUp          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[navigated to http://localhost:3200/]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Post Code icon on the footer]]>
+            </line>
+            <line>
+              <![CDATA[entered post code : 3000]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Cancel button post code pop up >]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in testCases.MDP_PostCodePopUp_TC]]>
+            </line>
+            <line>
+              <![CDATA[Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception,]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_ClosePostCodePopUp -->
+        <test-method status="PASS" signature="verify_PostCodePopupPresence(java.lang.reflect.Method)[pri:0, instance:testCases.MDP_PostCodePopUp_TC@614ddd49]" name="verify_PostCodePopupPresence" duration-ms="2359" started-at="2016-10-04T21:43:38Z" description="verifying post code icon is present or not" finished-at="2016-10-04T21:43:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.MDP_PostCodePopUp_TC.verify_PostCodePopupPresence(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The execution of the main test starts now]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : MDP_PostCodePopUp_TC.verify_PostCodePopupPresence]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[$$$$$$$$$$$      Starts executing Test case ID        verify_PostCodePopupPresence          $$$$$$$$$$$$$]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[**********************************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[navigated to http://localhost:3200/]]>
+            </line>
+            <line>
+              <![CDATA[Elements are : <    >]]>
+            </line>
+            <line>
+              <![CDATA[Completed executing following method : MDP_PostCodePopUp_TC.verify_PostCodePopupPresence]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in testCases.MDP_PostCodePopUp_TC]]>
+            </line>
+            <line>
+              <![CDATA[Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verify_PostCodePopupPresence(java.lang.reflect.Method) throws java.lang.Exception,]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_PostCodePopupPresence -->
+      </class> <!-- testCases.MDP_PostCodePopUp_TC -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- MAZDA_MAZD0348_Suite -->
+</testng-results>

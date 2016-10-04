@@ -1,0 +1,27 @@
+2016-Sep-22 09:57:33,320 INFO  [MDP_MyCustomisedLogs] Launching Browser < Firefox > 
+2016-Sep-22 09:57:35,288 INFO  [MDP_MyCustomisedLogs] New firefox driver instantiated 
+2016-Sep-22 09:57:35,300 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 09:57:35,300 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 09:57:35,300 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Sep-22 09:57:35,300 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 09:57:35,300 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 09:57:35,769 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-22 09:57:35,769 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-22 09:57:35,769 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-22 09:57:35,769 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-22 09:57:35,769 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-22 09:57:35,802 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 09:57:35,802 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 09:57:35,802 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-22 09:57:35,802 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 09:57:35,802 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-22 09:57:52,796 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-22 09:57:53,154 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.InvalidSelectorException: Given css selector expression "span[starts-with('rmq')]" is invalid: SyntaxError: An invalid or illegal string was specified (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 94 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 34d77cbb-b48c-e244-a7b8-36868b64bd45
+*** Element info: {Using=css selector, value=span[starts-with('rmq')]} 

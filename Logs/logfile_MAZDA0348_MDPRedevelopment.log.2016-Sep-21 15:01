@@ -1,0 +1,10 @@
+2016-Sep-21 15:01:18,266 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-21 15:01:18,638 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.InvalidSelectorException: Given css selector expression "span[class:contains='rmq']" is invalid: SyntaxError: An invalid or illegal string was specified (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 72 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 9a0ed046-a880-7f4e-b39d-78fb3fbcab14
+*** Element info: {Using=css selector, value=span[class:contains='rmq']} 

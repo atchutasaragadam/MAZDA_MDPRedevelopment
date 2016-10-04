@@ -1,0 +1,10 @@
+2016-Sep-17 22:17:04,482 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-17 22:17:12,174 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-17 22:17:12,763 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-17 22:17:16,224 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-17 22:17:16,817 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-17 22:17:18,888 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-17 22:17:19,317 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-17 22:17:26,034 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-17 22:17:56,917 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-17 22:17:57,633 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 

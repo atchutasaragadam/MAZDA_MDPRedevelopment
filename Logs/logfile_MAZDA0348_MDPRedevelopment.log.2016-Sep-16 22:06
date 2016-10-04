@@ -1,0 +1,217 @@
+2016-Sep-16 22:06:06,584 INFO  [MDP_MyCustomisedLogs] Launching Browser < Safari > 
+2016-Sep-16 22:06:07,513 INFO  [MDP_MyCustomisedLogs] New Safari driver instantiated 
+2016-Sep-16 22:06:07,531 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:07,531 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:07,531 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-16 22:06:07,531 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:07,531 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:07,980 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-16 22:06:07,981 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:07,981 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:07,981 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:07,981 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:08,016 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:08,016 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:08,016 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-16 22:06:08,016 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:08,016 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:11,451 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:11,507 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.WebDriverException: Unknown command: setTimeout (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities [{browserName=safari, takesScreenshot=true, javascriptEnabled=true, version=9.1.1, cssSelectorsEnabled=true, platform=MAC, secureSsl=true}]
+Session ID: null 
+2016-Sep-16 22:06:11,507 ERROR [MDP_MyCustomisedLogs] Class : AustralianSuperCampaigns_TC  || Method:  verifyLinksCampaigns || description : org.testng.TestException: 
+org.openqa.selenium.WebDriverException: Unknown command: setTimeout (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities [{browserName=safari, takesScreenshot=true, javascriptEnabled=true, version=9.1.1, cssSelectorsEnabled=true, platform=MAC, secureSsl=true}]
+Session ID: null 
+2016-Sep-16 22:06:11,511 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:11,511 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:11,511 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyContent          $$$$$$$$$$$$$ 
+2016-Sep-16 22:06:11,511 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:11,511 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:11,583 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,584 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,584 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,584 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,584 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,626 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,626 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,626 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,626 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,626 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,662 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,663 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,663 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,663 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,663 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,698 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,698 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,698 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,698 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,698 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,732 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,732 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,732 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,732 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,732 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,767 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,767 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,767 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,767 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,767 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,798 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,798 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,798 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,798 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,798 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,828 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,829 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,829 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,829 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,829 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,854 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,854 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,854 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,854 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,854 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,881 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,881 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,881 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,881 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,881 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,911 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,911 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,911 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,911 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,911 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,937 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,938 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,938 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,938 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,938 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,963 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,963 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,963 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,963 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,963 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,987 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:11,987 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,987 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,987 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:11,987 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,007 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:12,007 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,007 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,007 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,007 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,028 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:12,028 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,028 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,028 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,028 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,048 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:12,048 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,048 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,048 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,048 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyContent             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:12,070 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:22,442 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Sep-16 22:06:23,569 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Sep-16 22:06:23,571 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:23,571 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:23,571 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-16 22:06:23,571 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:23,571 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:23,605 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-16 22:06:23,606 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:23,606 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:23,606 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:23,606 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 22:06:23,626 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:23,627 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:23,627 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-16 22:06:23,627 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:23,627 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 22:06:27,391 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:27,722 INFO  [MDP_MyCustomisedLogs] Getting  Total child links for  null 
+2016-Sep-16 22:06:27,743 INFO  [MDP_MyCustomisedLogs] Total number of links is/are : < 10 > 
+2016-Sep-16 22:06:27,782 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:27,782 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/ 
+2016-Sep-16 22:06:27,881 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:27,881 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:27,881 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:27,881 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/  >> 
+2016-Sep-16 22:06:30,906 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/ >  
+2016-Sep-16 22:06:32,203 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:32,203 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   FIND A DEALER 
+2016-Sep-16 22:06:32,203 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:32,267 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:32,267 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:32,268 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:32,268 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:06:34,330 INFO  [MDP_MyCustomisedLogs] Clicked on :  < FIND A DEALER  > and the URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:06:35,556 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:35,556 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:35,602 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:35,602 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:35,602 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:35,602 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:06:38,631 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:06:39,763 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:39,764 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:39,890 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:39,890 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:39,890 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:39,890 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:06:42,924 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:06:43,834 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:43,834 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:43,889 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:43,889 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:43,889 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:43,889 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:06:46,924 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:06:47,821 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:47,821 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:47,875 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:47,875 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:47,875 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:47,875 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:06:50,906 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:06:51,789 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:51,789 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:51,841 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:51,841 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:51,842 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:51,842 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:06:54,875 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:06:55,747 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:55,747 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:55,797 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:55,797 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:55,797 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:55,797 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-16 22:06:58,824 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-16 22:06:59,705 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-16 22:06:59,705 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   TERMS & CONDITIONS 
+2016-Sep-16 22:06:59,705 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-16 22:06:59,758 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-16 22:06:59,758 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-16 22:06:59,758 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-16 22:06:59,758 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 

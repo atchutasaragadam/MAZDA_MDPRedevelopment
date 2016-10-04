@@ -1,0 +1,16 @@
+2016-Sep-21 14:18:25,163 INFO  [MDP_MyCustomisedLogs] Launching Browser < Firefox > 
+2016-Sep-21 14:18:27,776 INFO  [MDP_MyCustomisedLogs] New firefox driver instantiated 
+2016-Sep-21 14:18:27,791 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:18:27,791 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:18:27,791 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Sep-21 14:18:27,791 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:18:27,791 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 14:18:28,081 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.NoSuchElementException: Unable to locate element: #koala > div > div > footer > div:nth-child(1) > span:nth-child(1) > div:nth-child(1) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 270 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 79ccea9e-2f71-5b4b-8acb-f41dc2eb9345
+*** Element info: {Using=css selector, value=#koala > div > div > footer > div:nth-child(1) > span:nth-child(1) > div:nth-child(1)} 

@@ -1,0 +1,168 @@
+2016-Sep-21 08:54:18,283 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-21 08:54:18,619 INFO  [MDP_MyCustomisedLogs] Getting  Total child links for  TC_HomePage_AU 
+2016-Sep-21 08:54:18,644 INFO  [MDP_MyCustomisedLogs] Total number of links is/are : < 10 > 
+2016-Sep-21 08:54:18,757 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:18,758 INFO  [MDP_MyCustomisedLogs]      Now testing for url    / 
+2016-Sep-21 08:54:19,123 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: /|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:19,123 INFO  [MDP_MyCustomisedLogs] Broken link: <<  /  >> 
+2016-Sep-21 08:54:19,153 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:19,153 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   FIND A DEALER 
+2016-Sep-21 08:54:19,153 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:19,485 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:19,486 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:19,564 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:19,564 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   GET IN TOUCH 
+2016-Sep-21 08:54:19,565 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:19,868 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:19,868 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:19,888 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:19,888 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   MY MAZDA 
+2016-Sep-21 08:54:19,888 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:20,208 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:20,209 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:20,232 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:20,232 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:20,528 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:20,528 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:20,550 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:20,550 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:20,862 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:20,863 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:20,886 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:20,887 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:21,240 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:21,240 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:21,266 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:21,266 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:21,585 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:21,586 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:21,608 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:21,608 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   TERMS & CONDITIONS 
+2016-Sep-21 08:54:21,608 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:21,918 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:21,918 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:21,941 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-21 08:54:21,941 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   PRIVACY POLICY 
+2016-Sep-21 08:54:21,941 INFO  [MDP_MyCustomisedLogs]      Now testing for url    # 
+2016-Sep-21 08:54:22,240 ERROR [MDP_MyCustomisedLogs] java.net.MalformedURLException: no protocol: #|| description of the error : Response code is < 0 > with response status is: < null 
+2016-Sep-21 08:54:22,240 INFO  [MDP_MyCustomisedLogs] Broken link: <<  #  >> 
+2016-Sep-21 08:54:22,240 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyLinksCampaigns             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-21 08:54:22,241 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,241 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,241 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,241 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,244 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,244 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,244 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyContent          $$$$$$$$$$$$$ 
+2016-Sep-21 08:54:22,244 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,244 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,308 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,309 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,309 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,309 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,309 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,354 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,354 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,354 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,354 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,354 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,411 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,411 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,411 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,411 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,411 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,449 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,449 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,449 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,449 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,449 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,488 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,488 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,488 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,488 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,488 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,529 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,529 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,529 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,529 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,529 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,567 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,567 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,567 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,567 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,567 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,605 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,605 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,606 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,606 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,606 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,638 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,638 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,638 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,638 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,638 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,669 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,669 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,669 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,669 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,670 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,698 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,698 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,698 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,698 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,698 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,732 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,732 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,732 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,732 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,732 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,761 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,761 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,761 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,761 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,761 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,786 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,786 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,786 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,787 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,787 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,814 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,814 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,814 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,814 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,814 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,845 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,845 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,845 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,845 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,845 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,872 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,872 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,872 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,872 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,872 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyContent             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,899 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,902 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,902 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,902 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyMenu          $$$$$$$$$$$$$ 
+2016-Sep-21 08:54:22,902 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,902 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,941 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-21 08:54:22,942 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,942 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,942 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,942 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 08:54:22,961 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,961 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,961 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-21 08:54:22,961 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 08:54:22,961 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

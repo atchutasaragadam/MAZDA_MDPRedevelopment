@@ -1,0 +1,29 @@
+2016-Sep-16 21:57:48,751 ERROR [MDP_MyCustomisedLogs] Error in Class : SuperClass || Method : browserExecute || Description : < Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver >  
+2016-Sep-16 21:57:48,785 INFO  [MDP_MyCustomisedLogs] Launching Browser < selenium-grid-win10-IE > 
+2016-Sep-16 21:57:48,786 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:57:48,786 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:57:48,786 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-16 21:57:48,786 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:57:48,786 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:57:48,806 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-16 21:57:48,806 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:57:48,806 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:57:48,806 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:57:48,806 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-16 21:57:48,821 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:57:48,821 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:57:48,821 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-16 21:57:48,821 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:57:48,821 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-16 21:57:48,829 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver 
+2016-Sep-16 21:57:48,830 ERROR [MDP_MyCustomisedLogs] Class : AustralianSuperCampaigns_TC  || Method:  verifyLinksCampaigns || description : org.testng.TestException: 
+org.openqa.selenium.remote.SessionNotFoundException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: driver.version: RemoteWebDriver 

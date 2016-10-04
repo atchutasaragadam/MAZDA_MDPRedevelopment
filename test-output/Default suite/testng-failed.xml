@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <parameter name="browser" value="Safari"/>
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="testCases.MDP_SuperClass"/>
+      <class name="utility.MDP_ExtentManager"/>
+      <class name="pageObjects_PF.MDP_Menu_PF"/>
+      <class name="utility.MDP_MyCustomisedLogs"/>
+      <class name="utility.TestParameters"/>
+      <class name="utility.MDP_Constant"/>
+      <class name="utility.Listener"/>
+      <class name="testCases.MDP_Menu_TC"/>
+      <class name="testCases.MDP_FindAllLinks_TC"/>
+      <class name="utility.MDP_Excel"/>
+      <class name="testCases.MDP_VerifyContentInAPage_TC"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->

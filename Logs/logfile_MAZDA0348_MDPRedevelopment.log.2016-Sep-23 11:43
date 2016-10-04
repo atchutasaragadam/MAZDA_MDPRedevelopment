@@ -1,0 +1,14 @@
+2016-Sep-23 11:43:16,786 INFO  [MDP_MyCustomisedLogs] navigated to http://localhost:3200/ 
+2016-Sep-23 11:43:17,336 INFO  [MDP_MyCustomisedLogs] Element <=== OUR RANGE ===> is displayed 
+2016-Sep-23 11:43:17,466 INFO  [MDP_MyCustomisedLogs] Clicked on  < OUR RANGE   ===> 
+2016-Sep-23 11:43:17,533 INFO  [MDP_MyCustomisedLogs] Element <=== BUYING GUIDE ===> is displayed 
+2016-Sep-23 11:43:17,663 INFO  [MDP_MyCustomisedLogs] Clicked on  < BUYING GUIDE   ===> 
+2016-Sep-23 11:43:17,721 INFO  [MDP_MyCustomisedLogs] Element <=== FIND A DEALER ===> is displayed 
+2016-Sep-23 11:43:17,794 INFO  [MDP_MyCustomisedLogs] Clicked on  < FIND A DEALER   ===> 
+2016-Sep-23 11:43:17,851 INFO  [MDP_MyCustomisedLogs] Element <=== MORE + ===> is displayed 
+2016-Sep-23 11:43:18,011 INFO  [MDP_MyCustomisedLogs] Clicked on  < MORE +   ===> 
+2016-Sep-23 11:43:18,024 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyMenu             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-23 11:43:18,024 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 11:43:18,024 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 11:43:18,024 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 11:43:18,024 INFO  [MDP_MyCustomisedLogs] X 

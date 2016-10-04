@@ -1,0 +1,4 @@
+2016-Sep-17 21:50:06,790 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-17 21:50:16,678 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-17 21:50:34,024 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-17 21:50:34,880 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/  >> 

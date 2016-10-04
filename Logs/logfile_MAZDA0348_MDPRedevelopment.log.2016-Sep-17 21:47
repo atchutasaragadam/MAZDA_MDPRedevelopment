@@ -1,0 +1,132 @@
+2016-Sep-17 21:47:45,292 INFO  [MDP_MyCustomisedLogs] Launching Browser < Safari > 
+2016-Sep-17 21:47:46,285 INFO  [MDP_MyCustomisedLogs] New Safari driver instantiated 
+2016-Sep-17 21:47:46,299 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:46,299 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:46,299 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyMenu          $$$$$$$$$$$$$ 
+2016-Sep-17 21:47:46,299 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:46,299 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:46,823 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-17 21:47:46,823 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:46,823 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:46,824 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:46,824 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:46,859 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:46,860 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:46,860 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-17 21:47:46,860 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:46,860 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:49,796 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-17 21:47:49,918 INFO  [MDP_MyCustomisedLogs] Element < OUR RANGE ▾ > is displayed 
+2016-Sep-17 21:47:49,939 INFO  [MDP_MyCustomisedLogs] Element < BUYING GUIDE ▾ > is displayed 
+2016-Sep-17 21:47:50,033 INFO  [MDP_MyCustomisedLogs] Clicked on  < OUR RANGE ▾ 
+2016-Sep-17 21:47:50,103 INFO  [MDP_MyCustomisedLogs] Clicked on  < BUYING GUIDE ▾ 
+2016-Sep-17 21:47:50,108 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyMenu             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-17 21:47:50,108 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,108 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,108 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,108 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,111 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:50,111 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:50,111 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyContent          $$$$$$$$$$$$$ 
+2016-Sep-17 21:47:50,111 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:50,111 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:50,179 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,179 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,180 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,180 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,180 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,225 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,225 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,225 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,225 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,225 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,271 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,271 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,271 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,271 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,271 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,311 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,312 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,312 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,312 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,312 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,359 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,359 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,359 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,360 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,360 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,394 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,394 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,394 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,394 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,394 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,430 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,430 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,430 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,430 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,430 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,463 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,463 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,463 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,463 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,463 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,492 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,493 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,493 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,493 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,493 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,523 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,523 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,523 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,523 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,523 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,551 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,551 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,551 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,551 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,551 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,576 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,576 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,576 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,576 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,576 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,609 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,609 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,609 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,609 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,609 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,636 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,636 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,636 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,636 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,636 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,664 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,664 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,664 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,664 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,665 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,690 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,690 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,690 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,690 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,690 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,710 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,711 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,711 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,711 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,711 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyContent             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,735 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,736 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:47:50,739 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:50,739 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:50,739 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-17 21:47:50,739 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:47:50,739 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

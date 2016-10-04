@@ -1,0 +1,164 @@
+2016-Sep-17 21:34:35,739 INFO  [MDP_MyCustomisedLogs] Launching Browser < Safari > 
+2016-Sep-17 21:34:36,651 INFO  [MDP_MyCustomisedLogs] New Safari driver instantiated 
+2016-Sep-17 21:34:36,662 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:36,662 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:36,662 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyMenu          $$$$$$$$$$$$$ 
+2016-Sep-17 21:34:36,662 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:36,662 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:37,107 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-17 21:34:37,108 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:37,108 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:37,108 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:37,108 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:37,143 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:37,143 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:37,143 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-17 21:34:37,144 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:37,144 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:40,539 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-17 21:34:40,592 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.WebDriverException: Unknown command: setTimeout (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities [{browserName=safari, takesScreenshot=true, javascriptEnabled=true, version=9.1.1, cssSelectorsEnabled=true, platform=MAC, secureSsl=true}]
+Session ID: null 
+2016-Sep-17 21:34:40,592 ERROR [MDP_MyCustomisedLogs] org.testng.TestException: 
+org.openqa.selenium.WebDriverException: Unknown command: setTimeout (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities [{browserName=safari, takesScreenshot=true, javascriptEnabled=true, version=9.1.1, cssSelectorsEnabled=true, platform=MAC, secureSsl=true}]
+Session ID: null 
+2016-Sep-17 21:34:40,594 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:40,595 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:40,595 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyContent          $$$$$$$$$$$$$ 
+2016-Sep-17 21:34:40,595 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:40,595 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:40,669 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,669 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,669 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,669 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,669 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,717 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,717 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,717 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,717 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,717 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,756 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,756 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,756 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,756 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,756 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,797 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,797 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,797 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,797 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,797 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,832 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,832 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,832 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,832 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,832 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,869 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,869 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,869 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,869 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,869 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,902 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,902 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,902 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,902 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,902 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,927 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,927 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,927 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,927 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,927 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,954 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,954 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,954 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,954 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,954 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,983 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:40,983 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,983 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,983 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:40,983 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,013 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:41,013 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,013 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,014 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,014 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,039 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:41,039 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,039 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,039 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,039 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,067 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:41,067 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,067 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,067 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,067 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,092 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:41,092 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,092 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,092 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,092 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,121 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:41,121 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,121 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,121 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,121 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,147 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:41,147 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,147 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,147 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,147 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,168 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:41,168 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,168 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,168 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,168 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID  is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case <  > as the Run Mode for this test case is <  > > 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyContent             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,193 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,194 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,197 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:41,197 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:41,197 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyLinksCampaigns          $$$$$$$$$$$$$ 
+2016-Sep-17 21:34:41,197 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:41,197 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:41,216 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-17 21:34:41,216 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,216 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,216 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,216 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 21:34:41,233 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:41,233 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:41,233 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-17 21:34:41,233 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:41,233 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-17 21:34:41,247 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-17 21:34:41,253 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.WebDriverException: Unknown command: setTimeout (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities [{browserName=safari, takesScreenshot=true, javascriptEnabled=true, version=9.1.1, cssSelectorsEnabled=true, platform=MAC, secureSsl=true}]
+Session ID: null 
+2016-Sep-17 21:34:41,253 ERROR [MDP_MyCustomisedLogs] org.testng.TestException: 
+org.openqa.selenium.WebDriverException: Unknown command: setTimeout (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Capabilities [{browserName=safari, takesScreenshot=true, javascriptEnabled=true, version=9.1.1, cssSelectorsEnabled=true, platform=MAC, secureSsl=true}]
+Session ID: null 

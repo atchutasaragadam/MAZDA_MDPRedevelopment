@@ -1,0 +1,21 @@
+2016-Sep-17 22:19:11,044 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-17 22:19:11,900 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   TERMS & CONDITIONS 
+2016-Sep-17 22:19:12,403 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-17 22:19:16,092 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-17 22:19:16,600 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-17 22:19:18,818 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-17 22:19:19,320 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-17 22:19:23,064 INFO  [MDP_MyCustomisedLogs] Clicked on :  < TERMS & CONDITIONS  > and the URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-17 22:19:31,053 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-17 22:19:31,498 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   PRIVACY POLICY 
+2016-Sep-17 22:19:32,287 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-17 22:19:36,073 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-17 22:19:36,576 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-17 22:19:38,756 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-17 22:19:39,168 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-17 22:19:43,306 INFO  [MDP_MyCustomisedLogs] Clicked on :  < PRIVACY POLICY  > and the URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-17 22:19:56,437 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID verifyLinksCampaigns             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Sep-17 22:19:56,437 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 22:19:56,437 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 22:19:56,438 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-17 22:19:56,438 INFO  [MDP_MyCustomisedLogs] X 

@@ -1,0 +1,62 @@
+2016-Sep-23 09:21:35,070 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.WebDriverException: Failed to decode response from marionette (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 54.09 seconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 353cbca6-94f3-e84c-aeb3-29f7f7fb862c 
+2016-Sep-23 09:21:35,071 ERROR [MDP_MyCustomisedLogs] org.testng.TestException: 
+org.openqa.selenium.WebDriverException: Failed to decode response from marionette (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 54.09 seconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 353cbca6-94f3-e84c-aeb3-29f7f7fb862c 
+2016-Sep-23 09:21:35,074 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:35,075 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:35,075 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Sep-23 09:21:35,075 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:35,075 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:35,138 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-23 09:21:35,138 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 09:21:35,138 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 09:21:35,138 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 09:21:35,138 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 09:21:35,174 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:35,174 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:35,174 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-23 09:21:35,174 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:35,174 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:35,197 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 353cbca6-94f3-e84c-aeb3-29f7f7fb862c 
+2016-Sep-23 09:21:35,198 ERROR [MDP_MyCustomisedLogs] org.testng.TestException: 
+org.openqa.selenium.WebDriverException: Tried to run command without establishing a connection (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 353cbca6-94f3-e84c-aeb3-29f7f7fb862c 
+2016-Sep-23 09:21:42,739 INFO  [MDP_MyCustomisedLogs] Launching Browser < Firefox > 
+2016-Sep-23 09:21:44,782 INFO  [MDP_MyCustomisedLogs] New firefox driver instantiated 
+2016-Sep-23 09:21:44,795 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:44,795 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:44,795 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyMenu          $$$$$$$$$$$$$ 
+2016-Sep-23 09:21:44,795 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:44,795 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:45,312 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-23 09:21:45,312 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 09:21:45,312 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 09:21:45,312 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 09:21:45,312 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-23 09:21:45,346 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:45,346 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:45,346 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-23 09:21:45,346 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-23 09:21:45,346 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

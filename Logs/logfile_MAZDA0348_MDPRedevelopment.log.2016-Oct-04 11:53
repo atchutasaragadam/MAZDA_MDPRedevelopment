@@ -1,0 +1,72 @@
+2016-Oct-04 11:53:09,341 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-04 11:53:10,427 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Oct-04 11:53:10,438 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:10,438 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:10,438 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Oct-04 11:53:10,438 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:10,438 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:21,674 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:21,675 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:21,675 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_001          $$$$$$$$$$$$$ 
+2016-Oct-04 11:53:21,675 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:21,675 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:35,751 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 11:53:35,752 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:35,752 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:35,752 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:35,752 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:35,794 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:35,794 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:35,794 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_002          $$$$$$$$$$$$$ 
+2016-Oct-04 11:53:35,794 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:35,794 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,890 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 11:53:47,890 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,890 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,890 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,890 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,925 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,925 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,925 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_003          $$$$$$$$$$$$$ 
+2016-Oct-04 11:53:47,925 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,925 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,940 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 11:53:47,940 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,940 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,940 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,940 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,974 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,974 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,974 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_004          $$$$$$$$$$$$$ 
+2016-Oct-04 11:53:47,974 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,974 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:47,990 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 11:53:47,990 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,990 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,990 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:47,990 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:48,020 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:48,020 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:48,020 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_005          $$$$$$$$$$$$$ 
+2016-Oct-04 11:53:48,020 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:48,020 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:48,041 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 11:53:48,041 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:48,041 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:48,041 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:48,041 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:48,067 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:48,067 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:48,067 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_006          $$$$$$$$$$$$$ 
+2016-Oct-04 11:53:48,067 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:48,068 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:56,745 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX 
+2016-Oct-04 11:53:56,745 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:56,745 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:56,745 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:56,745 INFO  [MDP_MyCustomisedLogs] X 
+2016-Oct-04 11:53:56,771 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:56,771 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:56,771 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_007          $$$$$$$$$$$$$ 
+2016-Oct-04 11:53:56,771 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 11:53:56,771 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

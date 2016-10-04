@@ -1,0 +1,283 @@
+<html>
+<head>
+<title>TestNG:  ChromeTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>ChromeTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Oct 04 21:43:00 AEDT 2016</td>
+</tr>
+<tr><td>Total time:</td><td>51 seconds (51057 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testCases.MDP_PostCodePopUp_TC.verifyPostCodePopUp()'><b>verifyPostCodePopUp</b><br>Test class: testCases.MDP_PostCodePopUp_TC<br>Test method: Post Code Pop Up<br>Parameters: public void testCases.MDP_PostCodePopUp_TC.verifyPostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception<br/>
+<a href="#Output-816798571" onClick='toggleBox("Output-816798571", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-816798571" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-816798571">
+The execution of the main test starts now<br/>
+About to begin executing following method : MDP_PostCodePopUp_TC.verifyPostCodePopUp<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        verifyPostCodePopUp          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+navigated to http://localhost:3200/<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_001          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Clicked on Post Code icon on the footer<br/>
+entered post code : 2000<br/>
+Clicked on Submit button post code pop up ><br/>
+Location is not set to correct post code : 2000<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_002          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Clicked on Post Code icon on the footer<br/>
+entered post code : 3008<br/>
+Clicked on Submit button post code pop up ><br/>
+Location is not set to correct post code : 3008<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_003          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Not executing the post code as the value from excel is : 50000<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_004          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Clicked on Post Code icon on the footer<br/>
+entered post code : abcd<br/>
+Clicked on Submit button post code pop up ><br/>
+Location is not set to correct post code : abcd<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_005          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Not executing the post code as the value from excel is : @#$@#%<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_006          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Clicked on Post Code icon on the footer<br/>
+entered post code : as23<br/>
+Clicked on Submit button post code pop up ><br/>
+Location is not set to correct post code : as23<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_007          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Clicked on Post Code icon on the footer<br/>
+entered post code : 23sd<br/>
+Clicked on Submit button post code pop up ><br/>
+Location is not set to correct post code : 23sd<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_008          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Clicked on Post Code icon on the footer<br/>
+entered post code : 3008<br/>
+Clicked on Submit button post code pop up ><br/>
+Location is not set to correct post code : 3008<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_009          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Not executing the post code as the value from excel is : <br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        TC_PC_010          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+Clicked on Post Code icon on the footer<br/>
+entered post code : 4000<br/>
+Clicked on Submit button post code pop up ><br/>
+Location is not set to correct post code : 4000<br/>
+XXXXXXXXXXXXXXXXXXXXXXX             Ends Test Case ID Post Code Pop Up             XXXXXXXXXXXXXXXXXXXXXX<br/>
+X<br/>
+X<br/>
+X<br/>
+X<br/>
+Completed executing following method : MDP_PostCodePopUp_TC.verifyPostCodePopUp<br/>
+Test Method resides in testCases.MDP_PostCodePopUp_TC<br/>
+Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verifyPostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception,<br/>
+Test Status: PASSED<br/>
+</div>
+</td>
+<td></td>
+<td>32</td>
+<td>testCases.MDP_PostCodePopUp_TC@614ddd49</td></tr>
+<tr>
+<td title='testCases.MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp()'><b>verify_ClosePostCodePopUp</b><br>Test class: testCases.MDP_PostCodePopUp_TC<br>Test method: verifying close on post code pop up<br>Parameters: public void testCases.MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception<br/>
+<a href="#Output-108982313" onClick='toggleBox("Output-108982313", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-108982313" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-108982313">
+The execution of the main test starts now<br/>
+About to begin executing following method : MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        verify_ClosePostCodePopUp          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+navigated to http://localhost:3200/<br/>
+Clicked on Post Code icon on the footer<br/>
+entered post code : 3000<br/>
+Clicked on Cancel button post code pop up ><br/>
+Completed executing following method : MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp<br/>
+Test Method resides in testCases.MDP_PostCodePopUp_TC<br/>
+Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verify_ClosePostCodePopUp(java.lang.reflect.Method) throws java.lang.Exception,<br/>
+Test Status: PASSED<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>testCases.MDP_PostCodePopUp_TC@614ddd49</td></tr>
+<tr>
+<td title='testCases.MDP_PostCodePopUp_TC.verify_PostCodePopupPresence()'><b>verify_PostCodePopupPresence</b><br>Test class: testCases.MDP_PostCodePopUp_TC<br>Test method: verifying post code icon is present or not<br>Parameters: public void testCases.MDP_PostCodePopUp_TC.verify_PostCodePopupPresence(java.lang.reflect.Method) throws java.lang.Exception<br/>
+<a href="#Output-898695324" onClick='toggleBox("Output-898695324", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-898695324" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-898695324">
+The execution of the main test starts now<br/>
+About to begin executing following method : MDP_PostCodePopUp_TC.verify_PostCodePopupPresence<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+$$$$$$$$$$$      Starts executing Test case ID        verify_PostCodePopupPresence          $$$$$$$$$$$$$<br/>
+**********************************************************************************<br/>
+**********************************************************************************<br/>
+navigated to http://localhost:3200/<br/>
+Elements are : <    ><br/>
+Completed executing following method : MDP_PostCodePopUp_TC.verify_PostCodePopupPresence<br/>
+Test Method resides in testCases.MDP_PostCodePopUp_TC<br/>
+Test Method had the following parameters : nullpublic void testCases.MDP_PostCodePopUp_TC.verify_PostCodePopupPresence(java.lang.reflect.Method) throws java.lang.Exception,<br/>
+Test Status: PASSED<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>testCases.MDP_PostCodePopUp_TC@614ddd49</td></tr>
+</table><p>
+</body>
+</html>

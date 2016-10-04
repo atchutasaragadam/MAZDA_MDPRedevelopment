@@ -1,0 +1,13 @@
+2016-Sep-21 09:34:17,586 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-21 09:34:18,101 INFO  [MDP_MyCustomisedLogs] Element < OUR RANGE > is displayed 
+2016-Sep-21 09:34:18,294 INFO  [MDP_MyCustomisedLogs] Clicked on  < OUR RANGE 
+2016-Sep-21 09:34:18,340 INFO  [MDP_MyCustomisedLogs] Element < *BRAND NEW* > is displayed 
+2016-Sep-21 09:34:18,367 INFO  [MDP_MyCustomisedLogs] Clicked on  < *BRAND NEW* 
+2016-Sep-21 09:34:18,458 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.StaleElementReferenceException: The element reference is stale. Either the element is no longer attached to the DOM or the page has been refreshed. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, appBuildId=20160823121617, version=, platform=MAC, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, browserVersion=48.0.2, platformVersion=15.5.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=Firefox, takesScreenshot=true, javascriptEnabled=true, takesElementScreenshot=true, platformName=Darwin, device=desktop}]
+Session ID: 6518e4d0-afee-d64e-a775-0fe2acb7d948 

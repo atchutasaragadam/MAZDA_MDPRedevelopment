@@ -1,0 +1,16 @@
+2016-Oct-04 10:36:06,593 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-04 10:36:06,651 ERROR [MDP_MyCustomisedLogs] java.lang.IllegalStateException: The driver executable does not exist: /Volumes/Users/cheaus/Documents/Automation/AutomationProjects/MAZDA/MAZDA_MDP/MDPRedevelopment/System.getProperty('user.dir')/MDPRedevelopment/Browsers/ChromeDriver/chromedriver 
+2016-Oct-04 10:36:33,770 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-04 10:36:33,823 ERROR [MDP_MyCustomisedLogs] java.lang.IllegalStateException: The driver executable does not exist: /Volumes/Users/cheaus/Documents/Automation/AutomationProjects/MAZDA/MAZDA_MDP/MDPRedevelopment/MDPRedevelopment/Browsers/ChromeDriver/chromedriver 
+2016-Oct-04 10:36:47,434 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Oct-04 10:36:48,509 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Oct-04 10:36:48,520 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 10:36:48,520 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 10:36:48,520 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        Post Code Pop Up          $$$$$$$$$$$$$ 
+2016-Oct-04 10:36:48,520 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 10:36:48,520 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 10:36:51,526 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 10:36:51,526 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 10:36:51,526 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_PC_001          $$$$$$$$$$$$$ 
+2016-Oct-04 10:36:51,526 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Oct-04 10:36:51,526 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 

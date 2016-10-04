@@ -1,0 +1,19 @@
+2016-Sep-17 22:15:06,228 INFO  [MDP_MyCustomisedLogs] Getting  Total child links for  TC_HomePage_AU 
+2016-Sep-17 22:15:07,560 INFO  [MDP_MyCustomisedLogs] Total number of links is/are : < 10 > 
+2016-Sep-17 22:15:09,028 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-17 22:15:09,590 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/ 
+2016-Sep-17 22:15:13,146 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-17 22:15:13,679 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-17 22:15:15,996 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-17 22:15:16,546 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/  >> 
+2016-Sep-17 22:15:26,592 INFO  [MDP_MyCustomisedLogs] Clicked on URL is < http://koala.node.chdigital.com.au/ >  
+2016-Sep-17 22:15:36,198 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-17 22:15:36,799 INFO  [MDP_MyCustomisedLogs]     Now testing for link text   FIND A DEALER 
+2016-Sep-17 22:15:37,213 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 
+2016-Sep-17 22:15:41,001 INFO  [MDP_MyCustomisedLogs] HTTP Response Code is : [ 200 ] 
+2016-Sep-17 22:15:41,517 INFO  [MDP_MyCustomisedLogs] HTTP Response Status is : [ OK ] 
+2016-Sep-17 22:15:43,594 INFO  [MDP_MyCustomisedLogs] Response Status is < OK >  
+2016-Sep-17 22:15:44,136 INFO  [MDP_MyCustomisedLogs] Valid link: <<  http://koala.node.chdigital.com.au/#  >> 
+2016-Sep-17 22:15:48,700 INFO  [MDP_MyCustomisedLogs] Clicked on :  < FIND A DEALER  > and the URL is < http://koala.node.chdigital.com.au/# >  
+2016-Sep-17 22:15:56,464 INFO  [MDP_MyCustomisedLogs]  
+2016-Sep-17 22:15:57,218 INFO  [MDP_MyCustomisedLogs]      Now testing for url    http://koala.node.chdigital.com.au/# 

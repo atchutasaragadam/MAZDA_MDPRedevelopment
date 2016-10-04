@@ -1,0 +1,25 @@
+2016-Sep-21 11:26:18,972 INFO  [MDP_MyCustomisedLogs] Launching Browser < Chrome > 
+2016-Sep-21 11:26:20,445 INFO  [MDP_MyCustomisedLogs] New Chrome driver instantiated 
+2016-Sep-21 11:26:20,462 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 11:26:20,462 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 11:26:20,462 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        verifyMenu          $$$$$$$$$$$$$ 
+2016-Sep-21 11:26:20,463 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 11:26:20,463 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 11:26:21,027 INFO  [MDP_MyCustomisedLogs] XXXXXXXXXXXXXXXXXXXXXXX              Test case ID TC_HomePage_USA is skipped            XXXXXXXXXXXXXXXXXXXXXX. The Reason for skipping test case is  < Skipping the test case < TC_HomePage_USA > as the Run Mode for this test case is < n > > 
+2016-Sep-21 11:26:21,027 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 11:26:21,027 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 11:26:21,027 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 11:26:21,027 INFO  [MDP_MyCustomisedLogs] X 
+2016-Sep-21 11:26:21,064 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 11:26:21,064 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 11:26:21,064 INFO  [MDP_MyCustomisedLogs] $$$$$$$$$$$     Starts executing Test case ID        TC_HomePage_AU          $$$$$$$$$$$$$ 
+2016-Sep-21 11:26:21,064 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 11:26:21,064 INFO  [MDP_MyCustomisedLogs] ********************************************************************************** 
+2016-Sep-21 11:26:32,260 INFO  [MDP_MyCustomisedLogs] navigated to http://koala.node.chdigital.com.au/# 
+2016-Sep-21 11:26:32,844 INFO  [MDP_MyCustomisedLogs] Element < OUR RANGE > is displayed 
+2016-Sep-21 11:26:48,178 ERROR [MDP_MyCustomisedLogs] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (a3725e9ba753c388326bcb4b53bde7a9)] -> css selector: span] (tried for 15 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: '31c43c8', time: '2016-08-02 21:57:56 -0700'
+System info: host: 'MAC14847', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.5', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.22.397929 (fb72fb249a903a0b1041ea71eb4c8b3fa0d9be5a), userDataDir=/var/folders/wv/s493_yzx467ds83mrzlmcx61lg4j4d/T/.org.chromium.Chromium.eTjsvh}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=53.0.2785.116, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a3725e9ba753c388326bcb4b53bde7a9 

@@ -110,6 +110,8 @@ public class MDP_SuperClass {
 			} else if (browser.equalsIgnoreCase("safari")) {
 				SafariOptions options = new SafariOptions();
 				options.setUseCleanSession(true);
+				options.wait(3000);
+				
 				caps = DesiredCapabilities.safari();
 				caps.setCapability(SafariOptions.CAPABILITY, options);
 
@@ -175,7 +177,7 @@ public class MDP_SuperClass {
 
 			MDP_MyCustomisedLogs.error(e.toString());
 			test.log(LogStatus.ERROR, e.toString());
-			throw new Exception(e.toString());
+			//throw new Exception(e.toString());
 
 		}
 	}
@@ -195,7 +197,8 @@ public class MDP_SuperClass {
 		} catch (Exception e) {
 
 			MDP_MyCustomisedLogs.error("Class : SuperClass || Method: getScreenshot || Desciption: " + e.toString());
-			throw new TestException("Class : SuperClass || Method: getScreenshot || Desciption: " + e.toString());
+			test.log(LogStatus.ERROR, "Class : SuperClass || Method: getScreenshot || Desciption: " + e.toString());
+		throw new TestException("Class : SuperClass || Method: getScreenshot || Desciption: " + e.toString());
 
 		}
 
@@ -242,7 +245,7 @@ public class MDP_SuperClass {
 			MDP_MyCustomisedLogs.error(e.toString());
 			test.log(LogStatus.ERROR, e.toString());
 
-			throw new TestException(e.toString());
+		throw new TestException(e.toString());
 		}
 	}
 

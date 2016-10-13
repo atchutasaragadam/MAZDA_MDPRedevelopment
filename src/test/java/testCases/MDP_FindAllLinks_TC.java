@@ -23,17 +23,17 @@ public class MDP_FindAllLinks_TC extends MDP_SuperClass {
 
 	static boolean bIsValid = false;
 
-	@Test(description = "verifying  and validating links", enabled = false)
-	public void verifyLinksCampaigns() throws Exception {
+	@Test(description = "verifying  and validating links")
+	public void verify_LinksCampaigns() throws Exception {
 		try {
 
-			MDP_MyCustomisedLogs.startTestCase("verifyLinksCampaigns");
-			test.log(LogStatus.INFO, "Started test case : < verifyLinksCampaigns > ");
+			MDP_MyCustomisedLogs.startTestCase("verify_LinksCampaigns");
+			test.log(LogStatus.INFO, "Started test case : < verify_LinksCampaigns > ");
 
 			verifyLinks_Execute();
 
-			MDP_MyCustomisedLogs.endTestCase("verifyLinksCampaigns");
-			test.log(LogStatus.INFO, "Ended test case : < verifyLinksCampaigns > ");
+			MDP_MyCustomisedLogs.endTestCase("verify_LinksCampaigns");
+			test.log(LogStatus.INFO, "Ended test case : < verify_LinksCampaigns > ");
 
 		} catch (Exception e) {
 
@@ -185,6 +185,7 @@ public class MDP_FindAllLinks_TC extends MDP_SuperClass {
 
 			MDP_MyCustomisedLogs.info(e.toString());
 			test.log(LogStatus.ERROR, e.toString());
+			throw new TestException(e.toString());
 
 		}
 	}
@@ -223,6 +224,8 @@ public class MDP_FindAllLinks_TC extends MDP_SuperClass {
 			MDP_MyCustomisedLogs.error(e.toString() + "|| description of the error : Response code is < " + iResp_Code
 					+ " > with response status is: < " + sResp_Status);
 			test.log(LogStatus.ERROR, e.toString() + "|| description of the error : Response code is < " + iResp_Code
+					+ " > with response status is: < " + sResp_Status);
+			throw new TestException(e.toString() + "|| description of the error : Response code is < " + iResp_Code
 					+ " > with response status is: < " + sResp_Status);
 
 		}

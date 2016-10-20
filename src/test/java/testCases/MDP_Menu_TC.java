@@ -1,7 +1,6 @@
 package testCases;
 
-import java.lang.reflect.Method;
-
+import org.testng.TestException;
 import org.testng.annotations.Test;
 
 import com.relevantcodes.extentreports.LogStatus;
@@ -11,30 +10,30 @@ import utility.MDP_MyCustomisedLogs;
 
 public class MDP_Menu_TC extends MDP_SuperClass {
 
-	@Test(description = "verify Menu", enabled = false)
-	public void verifyMenu(Method method) throws Exception {
+	@Test(description = "verify Menu")
+	public void verify_Menu() throws Exception {
 
-		String methodName = method.getName();
 		try {
 
-			MDP_MyCustomisedLogs.startTestCase(methodName);
-			test.log(LogStatus.INFO, "Started test case : " + methodName);
+			MDP_MyCustomisedLogs.startTestCase("verify_Menu");
+			test.log(LogStatus.INFO, "Started test case : < verify_Menu > ");
 
 			MDP_Menu_PF menuPF = new MDP_Menu_PF(driver);
 			getURLFromSpreadsheet();
 
-			menuPF.verifyMenu();
+			menuPF.execute_Menu();
 			// verifyLinks_Execute();
-			getScreenshot(driver, methodName, "PASS", "");
+			getScreenshot(driver, "verify_Menu", "PASS", "");
 
-			MDP_MyCustomisedLogs.endTestCase(methodName);
-			test.log(LogStatus.INFO, "Ended test case : " + methodName);
+			MDP_MyCustomisedLogs.endTestCase("verify_Menu");
+			test.log(LogStatus.INFO, "Ended test case : < verify_Menu >");
 
 		} catch (Exception e) {
 
-			getScreenshot(driver, methodName, "FAIL", "");
+			getScreenshot(driver, "verify_Menu", "FAIL", "");
 			MDP_MyCustomisedLogs.error(e.toString());
 			test.log(LogStatus.ERROR, e.toString());
+			throw new TestException(e.toString());
 
 		}
 

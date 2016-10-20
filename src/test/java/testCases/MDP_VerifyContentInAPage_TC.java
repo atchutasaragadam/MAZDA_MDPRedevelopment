@@ -1,8 +1,8 @@
 package testCases;
 
-import java.lang.reflect.Method;
 import java.util.concurrent.TimeUnit;
 
+import org.testng.TestException;
 import org.testng.annotations.Test;
 
 import com.relevantcodes.extentreports.LogStatus;
@@ -13,23 +13,24 @@ import utility.MDP_MyCustomisedLogs;
 
 public class MDP_VerifyContentInAPage_TC extends MDP_SuperClass {
 
-	@Test(description = " Verifying content ", enabled = false)
-	public void verifyContent(Method method) throws Exception {
-		String methodName = method.getName();
+	@Test(description = " Verifying content ")
+	public void verify_Content() throws Exception {
+		
 		try {
 
-			MDP_MyCustomisedLogs.startTestCase(methodName);
-			test.log(LogStatus.INFO, "Started test case : " + methodName);
+			MDP_MyCustomisedLogs.startTestCase("verify_Content");
+			test.log(LogStatus.INFO, "Started test case : < verify_Content > ");
 
 			verifyTextPresent_Execute();
 
-			MDP_MyCustomisedLogs.endTestCase(methodName);
-			test.log(LogStatus.INFO, "Ended test case : " + methodName);
+			MDP_MyCustomisedLogs.endTestCase("verify_Content");
+			test.log(LogStatus.INFO, "Ended test case : < verify_Content > ");
 
 		} catch (Exception e) {
 
 			MDP_MyCustomisedLogs.error(e.toString());
 			test.log(LogStatus.ERROR, e.toString());
+			throw new TestException(e.toString());
 
 		}
 	}
@@ -97,6 +98,7 @@ public class MDP_VerifyContentInAPage_TC extends MDP_SuperClass {
 
 			MDP_MyCustomisedLogs.error(e.toString());
 			test.log(LogStatus.ERROR, e.toString());
+			throw new TestException(e.toString());
 
 		}
 	}
@@ -133,6 +135,7 @@ public class MDP_VerifyContentInAPage_TC extends MDP_SuperClass {
 
 			MDP_MyCustomisedLogs.error(e.toString());
 			test.log(LogStatus.INFO, e.toString());
+			throw new TestException(e.toString());
 
 		}
 	}
